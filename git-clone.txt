@@ -1,1 +1,1 @@
-Explain what git clone does in your own words.
+A git repository can be cloned to a shared file systsem and accessed by other persons. It can also be accessed via remote shell just by having the git software installed and allowing a user to log in.
